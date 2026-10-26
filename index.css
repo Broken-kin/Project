@@ -632,7 +632,7 @@ div .h2{
 }
 .social {
   display: flex;
-  gap: 30px;
+  gap: 20px;
 }
 .social a {
   width: 45px;
